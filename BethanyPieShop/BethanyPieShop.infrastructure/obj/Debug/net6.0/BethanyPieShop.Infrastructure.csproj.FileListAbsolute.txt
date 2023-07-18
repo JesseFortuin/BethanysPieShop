@@ -1,0 +1,17 @@
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\bin\Debug\net6.0\BethanyPieShop.Infrastructure.deps.json
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\bin\Debug\net6.0\BethanyPieShop.Infrastructure.dll
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\bin\Debug\net6.0\BethanyPieShop.Infrastructure.pdb
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\bin\Debug\net6.0\BethanyPieShop.Domain.dll
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\bin\Debug\net6.0\BethanyPieShop.Domain.pdb
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.csproj.AssemblyReference.cache
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.AssemblyInfoInputs.cache
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.AssemblyInfo.cs
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.csproj.CopyComplete
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.dll
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\refint\BethanyPieShop.Infrastructure.dll
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.pdb
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\ref\BethanyPieShop.Infrastructure.dll
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\bin\Debug\net6.0\BethanyPieShop.Infrastructure.runtimeconfig.json
+D:\Dev\Lessons\Building Websites with HTML CSS and JavaScript Getting Started\BethanyPieShop\BethanyPieShop.infrastructure\obj\Debug\net6.0\BethanyPieShop.Infrastructure.genruntimeconfig.cache
